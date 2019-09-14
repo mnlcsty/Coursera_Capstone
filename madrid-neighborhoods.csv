@@ -1,0 +1,132 @@
+District,Number,Neighborhood,Area,Link,Latitude,Longitude,Price 2nd Hand Housing
+Centro,11,Palacio,1.4709999999999999,/wiki/Palacio_(Madrid),40.415,-3.7133333333333334,4873.0
+Centro,12,Embajadores,1.032,/wiki/Embajadores_(Madrid),40.40888888888889,-3.6997222222222224,4239.0
+Centro,13,Cortes,0.5920000000000001,/wiki/Cortes_(Madrid),40.41416666666667,-3.698055555555556,5106.0
+Centro,14,Justicia,0.742,/wiki/Justicia_(Madrid),40.42388888888889,-3.696388888888889,5989.0
+Centro,15,Universidad,0.9470000000000001,/wiki/Universidad_(Madrid),40.42527777777777,-3.7083333333333335,5068.0
+Centro,16,Sol,0.445,/wiki/Sol_(Madrid),40.416666666666664,-3.7038888888888892,5263.0
+Arganzuela,21,Imperial,0.9670000000000001,/wiki/Imperial_(Madrid),40.406666666666666,-3.7169444444444446,3896.0
+Arganzuela,22,Acacias,1.074,/wiki/Acacias_(Madrid),40.40138888888889,-3.705,4046.0
+Arganzuela,23,Chopera,0.5660000000000001,/wiki/Chopera_(Madrid),40.394999999999996,-3.6994444444444445,3727.0
+Arganzuela,24,Legazpi,1.396,/wiki/Legazpi_(Madrid),40.38861111111111,-3.695277777777778,4263.0
+Arganzuela,25,Delicias,1.057,/wiki/Delicias_(Madrid),40.395833333333336,-3.6894444444444447,3777.0
+Arganzuela,26,Palos de Moguer,0.643,/wiki/Palos_de_Moguer_(Madrid),40.403888888888886,-3.693888888888889,3948.0
+Arganzuela,27,Atocha,0.775,/wiki/Atocha_(Madrid),40.400277777777774,-3.6830555555555553,3919.0
+Retiro,31,Pacífico,0.75,/wiki/Pac%C3%ADfico_(Madrid),40.40472222222222,-3.6758333333333333,4059.0
+Retiro,32,Adelfas,0.64,/wiki/Adelfas,40.400277777777774,-3.6708333333333334,4074.0
+Retiro,33,Estrella,1.025,/wiki/Estrella_(Madrid),40.41361111111111,-3.6641666666666666,4024.0
+Retiro,34,Ibiza,0.49,/wiki/Ibiza_(Madrid),40.41888888888889,-3.6741666666666664,5226.0
+Retiro,35,Jerónimos,1.9,/wiki/Jer%C3%B3nimos_(Retiro),40.413888888888884,-3.6908333333333334,6315.0
+Retiro,36,Niño Jesús,0.643,/wiki/Ni%C3%B1o_Jes%C3%BAs_(Madrid),40.41166666666666,-3.6738888888888885,4463.0
+Salamanca,41,Recoletos,0.87,/wiki/Recoletos_(barrio),40.424166666666665,-3.686388888888889,7931.0
+Salamanca,42,Goya,0.7709999999999999,/wiki/Goya_(Madrid),40.42472222222222,-3.677222222222222,5652.0
+Salamanca,43,Fuente del Berro,0.852,/wiki/Fuente_del_Berro,40.42472222222222,-3.6638888888888888,4275.0
+Salamanca,44,La Guindalera,1.598,/wiki/La_Guindalera,40.43611111111111,-3.6730555555555555,4267.0
+Salamanca,45,Lista,0.52,/wiki/Lista_(Madrid),40.43277777777777,-3.674444444444444,5498.0
+Salamanca,46,Castellana,0.773,/wiki/Castellana_(Madrid),40.43277777777777,-3.6836111111111114,6922.0
+Chamartín,51,El Viso,1.7080000000000002,/wiki/El_Viso_(Madrid),40.44444444444444,-3.688888888888889,5813.0
+Chamartín,52,Prosperidad,1.043,/wiki/Prosperidad_(Madrid),40.44499999999999,-3.67,4344.0
+Chamartín,53,Ciudad Jardín,0.762,/wiki/Ciudad_Jard%C3%ADn_(Madrid),40.44694444444444,-3.6716666666666664,4321.0
+Chamartín,54,Hispanoamérica,1.7069999999999999,/wiki/Hispanoam%C3%A9rica_(Madrid),40.455555555555556,-3.6766666666666663,5024.0
+Chamartín,55,Nueva España,1.788,/wiki/Nueva_Espa%C3%B1a_(Madrid),40.463055555555556,-3.6774999999999998,5204.0
+Chamartín,56,Castilla,2.16,/wiki/Castilla_(Madrid),40.475,-3.678888888888889,4313.0
+Tetuán,61,Bellas Vistas,0.716,/wiki/Bellas_Vistas,40.4525,-3.707222222222222,3354.0
+Tetuán,62,Cuatro Caminos,1.193,/wiki/Cuatro_Caminos_(Madrid),40.45027777777778,-3.6958333333333337,4115.0
+Tetuán,63,Castillejos,0.708,/wiki/Castillejos_(Madrid),40.46138888888889,-3.6925000000000003,4172.0
+Tetuán,64,Almenara,0.9990000000000001,/wiki/Almenara_(Madrid),40.47138888888889,-3.695555555555556,3311.0
+Tetuán,65,Valdeacederas,1.163,/wiki/Valdeacederas,40.468611111111116,-3.7055555555555557,3034.0
+Tetuán,66,Berruguete,0.607,/wiki/Berruguete_(Madrid),40.4575,-3.7055555555555557,2982.0
+Chamberí,71,Gaztambide,0.506,/wiki/Gaztambide_(Madrid),40.43472222222222,-3.7147222222222225,4664.0
+Chamberí,72,Arapiles,0.578,/wiki/Arapiles_(Madrid),40.43416666666666,-3.707777777777778,4855.0
+Chamberí,73,Trafalgar,0.611,/wiki/Trafalgar_(Madrid),40.433055555555555,-3.700555555555556,5387.0
+Chamberí,74,Almagro,0.937,/wiki/Almagro_(Madrid),40.431666666666665,-3.694166666666667,6175.0
+Chamberí,75,Ríos Rosas,0.971,/wiki/R%C3%ADos_Rosas_(Madrid),40.44222222222222,-3.6972222222222224,5044.0
+Chamberí,76,Vallehermoso,1.068,/wiki/Vallehermoso_(Madrid),40.44277777777778,-3.711666666666667,4341.0
+Fuencarral-El Pardo,81,El Pardo,187.642,/wiki/El_Pardo_(Madrid),40.516666666666666,-3.7666666666666666,3463.0
+Fuencarral-El Pardo,82,Fuentelarreina,1.382,/wiki/Fuentelarreina,40.481944444444444,-3.7425,3463.0
+Fuencarral-El Pardo,83,Peñagrande,2.89,/wiki/Pe%C3%B1agrande,40.47805555555556,-3.7255555555555557,3412.0
+Fuencarral-El Pardo,84,El Pilar,1.359,/wiki/El_Pilar_(Madrid),40.47833333333333,-3.711666666666667,3234.0
+Fuencarral-El Pardo,85,La Paz,2.1590000000000003,/wiki/La_Paz_(Madrid),40.481388888888894,-3.6969444444444446,3549.0
+Fuencarral-El Pardo,86,Valverde,8.977,/wiki/Valverde_(Madrid),40.505833333333335,-3.6858333333333335,3387.6666666666665
+Fuencarral-El Pardo,87,Mirasierra,6.975,/wiki/Mirasierra,40.49166666666667,-3.7080555555555557,3648.0
+Fuencarral-El Pardo,88,El Goloso,26.509,/wiki/El_Goloso_(Madrid),40.55611111111111,-3.7033333333333336,3463.0
+Moncloa-Aravaca,91,Casa de Campo,17.47,/wiki/Casa_de_Campo_(Madrid),40.422777777777775,-3.7494444444444444,3712.0
+Moncloa-Aravaca,92,Argüelles,0.755,/wiki/Arg%C3%BCelles_(Madrid),40.42916666666667,-3.718888888888889,4739.0
+Moncloa-Aravaca,93,Ciudad Universitaria,14.248,/wiki/Ciudad_Universitaria_(Madrid),40.443888888888885,-3.7261111111111114,3998.0
+Moncloa-Aravaca,94,Valdezarza,1.3969999999999998,/wiki/Valdezarza,40.465,-3.7183333333333333,3175.0
+Moncloa-Aravaca,95,Valdemarín,3.305,/wiki/Valdemar%C3%ADn,40.472500000000004,-3.7802777777777776,4413.0
+Moncloa-Aravaca,96,El Plantío,3.554,/wiki/El_Plant%C3%ADo,40.47083333333334,-3.8255555555555554,4221.0
+Moncloa-Aravaca,97,Aravaca,5.855,/wiki/Aravaca,40.45,-3.783333333333333,4198.0
+Latina,101,Los Cármenes,1.2919999999999998,/wiki/Los_C%C3%A1rmenes,40.40694444444444,-3.726388888888889,2307.0
+Latina,102,Puerta del Ángel,1.374,/wiki/Puerta_del_%C3%81ngel_(Madrid),40.411944444444444,-3.729722222222222,2725.0
+Latina,103,Lucero,1.679,/wiki/Lucero_(Madrid),40.410555555555554,-3.7358333333333333,2232.0
+Latina,104,Aluche,2.8489999999999998,/wiki/Aluche,40.3875,-3.754166666666667,2067.0
+Latina,105,Campamento,9.157,/wiki/Campamento_(Madrid),40.3875,-3.7819444444444446,2174.0
+Latina,106,Cuatro Vientos,5.419,/wiki/Cuatro_Vientos_(Madrid),40.3775,-3.791111111111111,2307.0
+Latina,107,Las Águilas,3.609,/wiki/Las_%C3%81guilas,40.3775,-3.7641666666666667,2041.0
+Carabanchel,111,Comillas,0.6659999999999999,/wiki/Comillas_(Madrid),40.39277777777778,-3.713888888888889,2367.0
+Carabanchel,112,Opañel,1.1059999999999999,/wiki/Opa%C3%B1el,40.388888888888886,-3.7280555555555557,2212.0
+Carabanchel,113,San Isidro,1.899,/wiki/San_Isidro_(Madrid),40.39888888888889,-3.726388888888889,2084.0
+Carabanchel,114,Vista Alegre,1.589,/wiki/Vista_Alegre_(Madrid),40.38611111111111,-3.738888888888889,2037.0
+Carabanchel,115,Puerta Bonita,1.607,/wiki/Puerta_Bonita_(Madrid),40.38194444444444,-3.736388888888889,1854.0
+Carabanchel,116,Buenavista,5.6129999999999995,/wiki/Buenavista_(Madrid),40.36666666666667,-3.755,2486.5
+Carabanchel,117,Abrantes,1.564,/wiki/Abrantes_(Madrid),40.38055555555555,-3.723888888888889,1896.0
+Usera,121,Orcasitas,1.3559999999999999,/wiki/Orcasitas,40.368611111111115,-3.7119444444444447,2008.0
+Usera,122,Orcasur,1.3840000000000001,/wiki/Orcasur,40.367222222222225,-3.6991666666666667,2008.0
+Usera,123,San Fermín,1.463,/wiki/San_Ferm%C3%ADn_(Madrid),40.36888888888889,-3.684166666666667,1815.0
+Usera,124,Almendrales,0.772,/wiki/Almendrales,40.38361111111111,-3.6988888888888893,2012.0
+Usera,125,Moscardó,0.9079999999999999,/wiki/Moscard%C3%B3_(Madrid),40.39,-3.707777777777778,2261.0
+Usera,126,Zofío,0.775,/wiki/El_Zof%C3%ADo,40.37916666666667,-3.715277777777778,1887.0
+Usera,127,Pradolongo,1.095,/wiki/Pradolongo_(Madrid),40.37833333333333,-3.7061111111111114,1902.0
+Puente de Vallecas,131,Entrevías,5.997000000000001,/wiki/Entrev%C3%ADas,40.37555555555556,-3.6716666666666664,1413.0
+Puente de Vallecas,132,San Diego,1.069,/wiki/San_Diego_(Madrid),40.396388888888886,-3.667222222222222,1783.0
+Puente de Vallecas,133,Palomeras Bajas,1.724,/wiki/Palomeras_Bajas,40.38722222222222,-3.657222222222222,1853.0
+Puente de Vallecas,134,Palomeras Sureste,3.1180000000000003,/wiki/Palomeras_Sureste,40.38777777777778,-3.6394444444444445,2014.0
+Puente de Vallecas,135,Portazgo,1.245,/wiki/Portazgo_(Madrid),40.3925,-3.649722222222222,1712.0
+Puente de Vallecas,136,Numancia,1.849,/wiki/Numancia_(Madrid),40.40083333333333,-3.6630555555555553,1921.0
+Moratalaz,141,Pavones,1.016,/wiki/Pavones,40.39472222222222,-3.6330555555555555,2568.0
+Moratalaz,142,Horcajo,0.745,/wiki/Horcajo_(Madrid),40.41138888888889,-3.6269444444444443,2568.0
+Moratalaz,143,Marroquina,1.7890000000000001,/wiki/Marroquina,40.41111111111111,-3.641111111111111,2794.0
+Moratalaz,144,Media Legua,0.9990000000000001,/wiki/Media_Legua_(Madrid),40.41416666666667,-3.654722222222222,2568.0
+Moratalaz,145,Fontarrón,0.9640000000000001,/wiki/Fontarr%C3%B3n,40.40138888888889,-3.645277777777778,2568.0
+Moratalaz,146,Vinateros,0.593,/wiki/Vinateros,40.403055555555554,-3.640277777777778,2568.0
+Ciudad Lineal,151,Ventas,3.198,/wiki/Ventas_(Madrid),40.42833333333333,-3.6574999999999998,2582.0
+Ciudad Lineal,152,Pueblo Nuevo,2.319,/wiki/Pueblo_Nuevo_(Madrid),40.42527777777777,-3.6352777777777776,2418.0
+Ciudad Lineal,153,Quintana,0.722,/wiki/Quintana_(Madrid),40.4375,-3.6422222222222222,2933.0
+Ciudad Lineal,154,Concepción,0.885,/wiki/Concepci%C3%B3n_(Madrid),40.44027777777777,-3.6480555555555556,3142.0
+Ciudad Lineal,155,San Pascual,1.052,/wiki/San_Pascual_(Madrid),40.442499999999995,-3.6525,3471.0
+Ciudad Lineal,156,San Juan Bautista,1.01,/wiki/San_Juan_Bautista_(Madrid),40.45,-3.6566666666666667,3894.0
+Ciudad Lineal,157,Colina,0.5589999999999999,/wiki/Colina_(Madrid),40.45666666666667,-3.6619444444444444,3000.0
+Ciudad Lineal,158,Atalaya,0.248,/wiki/Atalaya_(Madrid),40.46611111111111,-3.6669444444444443,3000.0
+Ciudad Lineal,159,Costillares,1.4269999999999998,/wiki/Costillares_(Madrid),40.474444444444444,-3.669722222222222,3989.0
+Hortaleza,161,Palomas,1.128,/wiki/Palomas_(Madrid),40.453611111111115,-3.618055555555556,3541.0
+Hortaleza,162,Piovera,3.139,/wiki/Piovera_(Madrid),40.453611111111115,-3.640277777777778,4921.0
+Hortaleza,163,Canillas,2.516,/wiki/Canillas_(barrio),40.459722222222226,-3.6455555555555557,3285.0
+Hortaleza,164,Pinar del Rey,2.6319999999999997,/wiki/Pinar_del_Rey_(Madrid),40.46472222222223,-3.6555555555555554,2907.0
+Hortaleza,165,Apóstol Santiago,1.204,/wiki/Ap%C3%B3stol_Santiago_(Madrid),40.475,-3.6622222222222223,2625.0
+Hortaleza,166,Valdefuentes,16.778,/wiki/Valdefuentes_(Madrid),40.49055555555556,-3.6238888888888887,3669.6
+Villaverde,171,Villaverde Alto,9.192,/wiki/Villaverde_Alto_(Madrid),40.34777777777778,-3.711666666666667,1644.0
+Villaverde,172,San Cristóbal,1.1059999999999999,/wiki/San_Crist%C3%B3bal_(Madrid),40.343333333333334,-3.6886111111111113,1252.0
+Villaverde,173,Butarque,6.425,/wiki/Butarque,40.343611111111116,-3.679722222222222,1803.0
+Villaverde,174,Los Rosales,1.511,/wiki/Los_Rosales_(Madrid),40.36027777777778,-3.6855555555555557,1761.0
+Villaverde,175,Los Ángeles,1.944,/wiki/Los_%C3%81ngeles_(Madrid),40.35666666666667,-3.6991666666666667,1648.0
+Villa de Vallecas,181,Casco Histórico de Vallecas,49.358999999999995,/wiki/Casco_Hist%C3%B3rico_de_Vallecas,40.35944444444445,-3.636388888888889,2343.5
+Villa de Vallecas,182,Santa Eugenia,2.07,/wiki/Santa_Eugenia_(Madrid),40.38333333333333,-3.611388888888889,2143.0
+Villa de Vallecas,183,Ensanche de Vallecas,4.722914062499999,/wiki/Ensanche_de_Vallecas,40.36555555555556,-3.6033333333333335,2338.0
+Vicálvaro,191,Casco Histórico de Vicálvaro,32.924,/wiki/Casco_Hist%C3%B3rico_de_Vic%C3%A1lvaro,40.39694444444444,-3.615,2227.0
+Vicálvaro,192,Valdebernardo,2.354,/wiki/Valdebernardo,40.3975,-3.6225,1956.0
+Vicálvaro,193,Valderrivas,4.722914062499999,/wiki/Valderrivas,40.401666666666664,-3.5991666666666666,2227.0
+Vicálvaro,194,El Cañaveral,4.722914062499999,/wiki/El_Ca%C3%B1averal,40.40138888888889,-3.5524999999999998,2227.0
+San Blas-Canillejas,201,Simancas,2.278,/wiki/Simancas_(Madrid),40.42805555555555,-3.625277777777778,2511.0
+San Blas-Canillejas,202,Hellín,0.5489999999999999,/wiki/Hell%C3%ADn_(Madrid),40.430277777777775,-3.618888888888889,2595.0
+San Blas-Canillejas,203,Amposta,0.37,/wiki/Amposta_(Madrid),40.430277777777775,-3.6194444444444445,2595.0
+San Blas-Canillejas,204,Arcos,1.305,/wiki/Arcos_(Madrid),40.42388888888889,-3.6130555555555555,2084.0
+San Blas-Canillejas,205,Rosas,9.388,/wiki/Rosas_(Madrid),40.434999999999995,-3.604166666666667,2993.0
+San Blas-Canillejas,206,Rejas,5.007,/wiki/Rejas_(Madrid),40.44361111111111,-3.595,3133.0
+San Blas-Canillejas,207,Canillejas,1.598,/wiki/Canillejas,40.45,-3.6166666666666667,2100.0
+San Blas-Canillejas,208,Salvador,1.881,/wiki/Salvador_(Madrid),40.44444444444444,-3.6330555555555555,2595.0
+Barajas,211,Alameda de Osuna,1.9609999999999999,/wiki/Alameda_de_Osuna,40.45722222222223,-3.5877777777777777,3185.0
+Barajas,212,Aeropuerto,25.131999999999998,/wiki/Aeropuerto_(Madrid),40.494166666666665,-3.5669444444444443,3242.0
+Barajas,213,Casco Histórico de Barajas,0.609,/wiki/Casco_Hist%C3%B3rico_de_Barajas,40.47361111111111,-3.577222222222222,3242.0
+Barajas,214,Timón,9.595,/wiki/Tim%C3%B3n_(Madrid),40.47666666666667,-3.6141666666666667,3242.0
+Barajas,215,Corralejos,4.633,/wiki/Corralejos,40.464444444444446,-3.5900000000000003,3242.0
